@@ -11,7 +11,7 @@ Technologies used :
 * Html
 * JavaScript
 * Css
- Feature :
+Feature :
  * Can save post into local storage of the users machine.
  * Can search and filter according to title and body.
  * Can view post in stack format.
